@@ -1,4 +1,4 @@
-![16](https://github.com/Hirusha99/imageProcessing-bloodVesselExtraction/assets/73214896/eb2f50f3-5a16-403c-b9ad-1a3680883470)# Extracting Blood Vessels Using some Image Processing Techniques
+# Extracting Blood Vessels Using some Image Processing Techniques
 
 Extracting blood vessels using image processing techniques involves employing various algorithms and tools to identify and isolate blood vessel structures from medical images, such as retinal or angiographic images. 
 These techniques typically include processes like image enhancement, noise reduction, and segmentation. Image enhancement methods improve the quality of the image, making vessels more distinguishable. 
